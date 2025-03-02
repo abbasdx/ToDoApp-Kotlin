@@ -32,12 +32,6 @@ This is a **To-Do Application** currently under development. The app aims to pro
 
 ---
 
-## 📜 License
-
-This project will be licensed under the [MIT License](LICENSE) once development reaches a stable release.
-
----
-
 ## 📌 Note
 
 This README will be updated frequently as development progresses. Stay tuned for updates!
