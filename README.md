@@ -8,10 +8,10 @@ This is a **To-Do Application** currently under development. The app aims to pro
 
 - [x] Add new tasks
 - [x] delete tasks
-- [x] Edit and mark tasks as completed
+- [ ] Edit and mark tasks as completed
 - [ ] Filter tasks (All, Completed, Pending)
 - [x] Local Storage with Room Database
-- [ ] Modern UI with Jetpack Compose
+- [x] Modern UI with Jetpack Compose
 - [ ] Dark Mode Support
 
 ---
