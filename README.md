@@ -1,6 +1,7 @@
-# 📋 To-Do App (In Development)
+# 📋 To-Do App
 
-This is a **To-Do Application** currently under development. The app aims to provide users with a simple yet powerful way to manage their daily tasks effectively.
+It is a user-friendly **To-Do Application** built with Kotlin and Jetpack Compose, designed to help users manage their daily tasks effortlessly.
+
 
 ---
 
@@ -28,10 +29,8 @@ This is a **To-Do Application** currently under development. The app aims to pro
 
 ---
 ## 📸 Screenshots 
-![App Screenshot](app/src/main/res/drawable/screenshots.png)
+![App Screenshot](app/src/main/res/drawable/screenshot_01.jpg)
+![App Screenshot](app/src/main/res/drawable/screenshot_02.jpg)
+![App Screenshot](app/src/main/res/drawable/screenshot_03.jpg)
 
 ---
-
-## 📌 Note
-
-This README will be updated frequently as development progresses. Stay tuned for updates!
