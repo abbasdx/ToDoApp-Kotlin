@@ -34,3 +34,16 @@ It is a user-friendly **To-Do Application** built with Kotlin and Jetpack Compos
 ![App Screenshot](app/src/main/res/drawable/screenshot_03.jpg)
 
 ---
+
+## 📝 License  
+
+Copyright © 2025 **Abbas Ansari** 
+
+All rights reserved.
+
+---
+
+👨‍💻 Developed by **Abbas Ansari**  
+🚀 Happy Coding!  
+
+---
